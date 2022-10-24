@@ -1,0 +1,44 @@
+<!--
+ * @Author: Tom
+ * @LastEditors: Tom
+ * @Date: 2022-10-21 18:58:29
+ * @LastEditTime: 2022-10-24 15:26:11
+ * @Email: Tom
+ * @FilePath: \network-security\EXIF.html
+ * @Environment: Win 10
+ * @Description: 
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div>
+      <img width="300" height="300" id="img1" src="./assets/非原图.jpg" alt="" />
+      <p>非原图</p>
+    </div>
+    <div>
+      <img width="300" height="300" id="img2" src="./assets/原图.jpg" alt="" />
+      <p>原图</p>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
+    <script>
+      const img = document.querySelector('#img2')
+
+      img.onload = () => {}
+      EXIF.getData(img, function () {
+        // EXIF.getData(img, callback) 获取图像的数据
+        // EXIF.getTag(img, tag) 获取图像的某个数据
+        // EXIF.getAllTags(img) 获取图像的全部数据，值以对象的方式返回
+        // EXIF.pretty(img) 获取图像的全部数据，值以字符串的方式返回
+
+        const data = EXIF.pretty(img)
+        console.log(data)
+      })
+    </script>
+  </body>
+</html>

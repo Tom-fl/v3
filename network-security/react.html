@@ -1,0 +1,38 @@
+<!--
+ * @Author: Tom
+ * @LastEditors: Tom
+ * @Date: 2022-10-21 18:42:55
+ * @LastEditTime: 2022-10-21 18:44:06
+ * @Email: Tom
+ * @FilePath: \network-security\react.html
+ * @Environment: Win 10
+ * @Description: 
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script src="https://cdn.bootcdn.net/ajax/libs/react/16.13.1/umd/react.production.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/react-dom/16.13.1/umd/react-dom.production.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/babel-standalone/7.0.0-beta.3/babel.min.js"></script>
+    <script type="text/babel">
+      const Ipt = React.createElement(() => {
+        const { useState } = window.React
+        const [state, setState] = useState({ val: '123' })
+        const setInput = e => {
+          setState({
+            val: e.target.value,
+          })
+        }
+        return <input type="password" onChange={setInput} value={state.val}></input>
+      })
+      ReactDOM.render(Ipt, document.getElementById('app'))
+    </script>
+  </body>
+</html>
