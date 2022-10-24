@@ -1,0 +1,1 @@
+import{_ as n,o as r,c as s,i as t,t as a}from"./index.67228c61.js";const e=n({},[["render",function(n,e){return r(),s("div",null,[t("div",null,a(n.$filters.format("嘻嘻嘻")),1),t("div",null,a(n.$env),1)])}]]);export{e as default};

@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,e as t,T as r,f as a}from"./index.67228c61.js";const n={},c=a("传送");const l=e(n,[["render",function(e,a){return o(),s("div",null,[(o(),t(r,{to:".teleport",style:{color:"red"}},[c]))])}]]);export{l as default};

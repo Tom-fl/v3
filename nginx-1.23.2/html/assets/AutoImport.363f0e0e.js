@@ -1,0 +1,1 @@
+import{d as a,q as s,o as t,c as e,h as u,w as l,i as n,t as o,b as r,f as c}from"./index.67228c61.js";const d=c("点击"),i=a({__name:"AutoImport",setup(a){const c=s(!1),i=()=>{c.value=!c.value};return(a,s)=>{const v=r("el-button");return t(),e("div",null,[u(v,{onClick:i},{default:l((()=>[d])),_:1}),n("div",null,o(c.value),1)])}}});export{i as default};

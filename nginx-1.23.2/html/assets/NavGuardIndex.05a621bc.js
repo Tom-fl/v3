@@ -1,0 +1,1 @@
+import{d as a,o as e,c as t,h as s,w as o,u as n,b as r,f as u}from"./index.67228c61.js";const l=u("退出登录"),c=a({__name:"NavGuardIndex",setup(a){const u=n(),c=()=>{localStorage.removeItem("token"),u.push("/")};return(a,n)=>{const u=r("el-button");return e(),t("div",null,[s(u,{onClick:c,type:"primary"},{default:o((()=>[l])),_:1})])}}});export{c as default};

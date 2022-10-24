@@ -1,0 +1,91 @@
+2022/10/20 18:59:55 [notice] 22852#25024: signal process started
+2022/10/20 19:02:03 [emerg] 12320#27516: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:02:12 [emerg] 38304#18096: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:02:37 [notice] 30532#39732: signal process started
+2022/10/20 19:05:38 [emerg] 34760#33632: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:05:41 [emerg] 36676#27308: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:05:49 [emerg] 7076#29572: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:05:57 [emerg] 38108#34008: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:05:59 [error] 1416#37604: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:06:32 [emerg] 25376#35740: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:06:37 [emerg] 29936#38560: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:06:42 [emerg] 16588#28116: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:06:43 [emerg] 11740#37056: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:06:46 [error] 1416#37604: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:06:46 [error] 1416#37604: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:06:47 [error] 1416#37604: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:06:47 [error] 1416#37604: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:06:47 [error] 1416#37604: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:06:57 [error] 1416#37604: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:07:18 [error] 1416#37604: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:07:31 [emerg] 39636#37432: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:07:45 [error] 1416#37604: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:08:14 [emerg] 38904#39132: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:08:16 [emerg] 38276#28436: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:08:23 [error] 1416#37604: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:08:46 [error] 1416#37604: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:09:01 [emerg] 38228#38284: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:09:14 [emerg] 38000#29572: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:09:21 [emerg] 20784#38712: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:09:21 [alert] 36192#4060: worker process 20784 exited with code 1
+2022/10/20 19:09:21 [alert] 36192#4060: could not respawn worker
+2022/10/20 19:09:27 [emerg] 15016#14696: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:09:29 [emerg] 37028#16488: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:09:36 [emerg] 34740#30856: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:09:50 [emerg] 3368#39216: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:09:51 [emerg] 1396#35064: unknown directive "localhost" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:43
+2022/10/20 19:10:07 [error] 28952#22272: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:10:17 [error] 28952#22272: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:10:17 [error] 28952#22272: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:10:29 [error] 28952#22272: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:10:51 [notice] 38008#30524: signal process started
+2022/10/20 19:11:29 [notice] 5620#14392: signal process started
+2022/10/20 19:11:29 [error] 5620#14392: CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/10/20 19:11:41 [notice] 35932#39904: signal process started
+2022/10/20 19:11:41 [error] 35932#39904: CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/10/20 19:12:03 [notice] 39884#39660: signal process started
+2022/10/20 19:12:11 [error] 16280#38108: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:12:11 [error] 16280#38108: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:12:12 [error] 16280#38108: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:12:12 [error] 16280#38108: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:12:12 [error] 16280#38108: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:12:12 [error] 16280#38108: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/20 19:12:15 [notice] 5952#31192: signal process started
+2022/10/20 19:12:15 [error] 5952#31192: CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/10/20 19:14:08 [error] 39108#32776: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/api/list" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/list HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/21 10:17:03 [error] 13756#19700: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/21 10:40:05 [notice] 4148#29628: signal process started
+2022/10/21 11:03:44 [notice] 21652#36676: signal process started
+2022/10/21 11:41:49 [error] 32624#21672: *1 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/21 11:41:49 [error] 32624#21672: *2 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/sw.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /sw.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/21 11:41:54 [error] 32624#21672: *4 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/navGuard/navGuardLogin" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /navGuard/navGuardLogin HTTP/1.1", host: "localhost"
+2022/10/21 11:46:07 [emerg] 19628#33404: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:46:16 [emerg] 30124#34280: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:46:20 [emerg] 29572#35680: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:46:23 [emerg] 39688#25304: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:46:28 [error] 32624#21672: *7 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/navGuard/navGuardLogin" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /navGuard/navGuardLogin HTTP/1.1", host: "localhost"
+2022/10/21 11:46:30 [error] 32624#21672: *8 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/sw.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /sw.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/21 11:46:32 [error] 32624#21672: *8 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/navGuard/navGuardLogin" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /navGuard/navGuardLogin HTTP/1.1", host: "localhost"
+2022/10/21 11:46:32 [error] 32624#21672: *8 CreateFile() "C:\Users\Tom\Desktop\nginx-1.23.2/html/navGuard/navGuardLogin" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /navGuard/navGuardLogin HTTP/1.1", host: "localhost"
+2022/10/21 11:46:44 [emerg] 34444#15732: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:47:10 [emerg] 38088#15956: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:47:10 [alert] 26052#11708: worker process 38088 exited with code 1
+2022/10/21 11:47:10 [alert] 26052#11708: could not respawn worker
+2022/10/21 11:47:14 [emerg] 34096#22152: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:47:23 [emerg] 38516#4200: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:47:31 [emerg] 39752#14392: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:47:46 [emerg] 34320#28652: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:47:52 [emerg] 33552#39132: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:47:59 [emerg] 36852#18800: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:48:08 [emerg] 14860#37064: unexpected "}" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:52
+2022/10/21 11:49:01 [emerg] 14184#19680: unknown directive "try_file" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:50
+2022/10/21 11:49:21 [emerg] 36860#25348: unknown "url" variable
+2022/10/21 11:50:21 [notice] 29992#23252: signal process started
+2022/10/21 12:42:19 [emerg] 4200#6316: invalid host in upstream "113.142.151.144:3333/api/list" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:36
+2022/10/21 13:48:53 [notice] 37808#41684: signal process started
+2022/10/21 15:22:02 [notice] 44216#38600: signal process started
+2022/10/21 15:27:14 [emerg] 22432#36860: invalid host in upstream "127.0.0.1:3001/" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:36
+2022/10/21 15:43:21 [notice] 14156#42248: signal process started
+2022/10/21 15:47:30 [emerg] 43164#38896: invalid parameter "fail_timeout" in C:\Users\Tom\Desktop\nginx-1.23.2/conf/nginx.conf:36
+2022/10/21 15:47:41 [notice] 29900#41712: signal process started
+2022/10/21 16:05:42 [notice] 44504#43628: signal process started
