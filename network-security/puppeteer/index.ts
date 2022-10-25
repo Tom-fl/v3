@@ -2,7 +2,7 @@
  * @Author: Tom
  * @LastEditors: Tom
  * @Date: 2022-10-25 10:09:59
- * @LastEditTime: 2022-10-25 16:32:07
+ * @LastEditTime: 2022-10-25 17:19:24
  * @Email: Tom
  * @FilePath: \network-security\puppeteer\index.ts
  * @Environment: Win 10
@@ -36,7 +36,7 @@ const sleep = (time: number) => {
       document.scrollingElement!.scrollTop = scrollTop + steep
       return document.body.clientHeight > scrollTop + 1080 ? true : false
     }, steep)
-    await sleep(1000)
+    await sleep(2000)
   }
   await page.screenshot({ path: 'hs.png', fullPage: true })
 })()
