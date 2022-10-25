@@ -2,13 +2,13 @@
  * @Author: Tom
  * @LastEditors: Tom
  * @Date: 2022-10-24 16:11:13
- * @LastEditTime: 2022-10-24 17:28:32
+ * @LastEditTime: 2022-10-25 16:26:56
  * @Email: Tom
  * @FilePath: \network-security\honeypotTechnology\index.ts
  * @Environment: Win 10
  * @Description:
  */
-import * as fs from 'fs'
+import fs from 'fs'
 
 // 获取微信id
 const getWxid = <T>(path: T) => {
