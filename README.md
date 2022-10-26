@@ -13,4 +13,4 @@
 - vue3-demo
   - vue3+vite+ts+pinia
 - typescript
-  - ts
+  - ts基本语法
