@@ -1,4 +1,4 @@
-## vue3 一些相关东西
+## vue3 相关
 
 - Android
   - vue如何打包安卓 
