@@ -1,23 +1,5 @@
 # ts
 
-### 介绍
-
-- ts是js的超集，遵循了es6语法，扩展了js语法
-- ts更像java、c#这样的面向对象语言
-
-###### 安装
-
-- npm i typescript -g   &  yarn add typescript global
-
-###### 运行
-
-- tsc helloworld.ts
-
-###### 热更新
-
-1. 在当前目录输入`tsc --init` 会生成一个 **tsconfig.json**文件，在文件中找到 `outDir` 修改成 `"outDir": "./js" `修改的话就是js文件下，不修改就是在当前目录生成js文件
-2. 编辑器里: 终端 -> 运行任务 -> 选择typescript -> 选择监视ts
-
 
 
 ### 数据类型
