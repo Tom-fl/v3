@@ -1,7 +1,10 @@
 {
   "compilerOptions": {
     "lib": ["dom", "es5", "es6", "es7"],
-    "downlevelIteration": true
+    "downlevelIteration": true,
     // "strict": false
+    "allowJs": true,
+    "outFile": "./lib/index.js",
+    "removeComments": true
   }
 }
