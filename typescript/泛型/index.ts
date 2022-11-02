@@ -64,12 +64,12 @@
 // 1.使用 keyof 来分割这个 T，T 就是定义的obj2 = { a: 1, b: 2 }  割完之后就成了联合类型 a | b
 // 2.使用 K 去继承 联合类型
 // 3.所以传不存在的key就会报错
-function fn2<T, K extends keyof T>(obj: T, key: K) {
-  return obj[key]
-}
-let obj2 = { a: 1, b: 2 }
-fn2(obj2, 'a') // 1
-// fn2(obj1, 'x') // error
+// function fn2<T, K extends keyof T>(obj: T, key: K) {
+//   return obj[key]
+// }
+// let obj2 = { a: 1, b: 2 }
+// fn2(obj2, 'a') // 1
+// // fn2(obj1, 'x') // error
 
 // ------------------------泛型类-----------------------
 
