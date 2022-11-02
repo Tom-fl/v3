@@ -6,6 +6,7 @@
     "allowJs": true, //
     "outFile": "./lib/index.js", // 输出位置
     "removeComments": true, // 删除注释
-    "allowSyntheticDefaultImports": true //默认导出
+    "allowSyntheticDefaultImports": true, //默认导出
+    "experimentalDecorators": true //是否启用装饰器特性
   }
 }
