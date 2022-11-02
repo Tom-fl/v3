@@ -2,9 +2,10 @@
   "compilerOptions": {
     "lib": ["dom", "es5", "es6", "es7"],
     "downlevelIteration": true,
-    // "strict": false
-    "allowJs": true,
-    "outFile": "./lib/index.js",
-    "removeComments": true
+    // "strict": false, // 严格模式
+    "allowJs": true, //
+    "outFile": "./lib/index.js", // 输出位置
+    "removeComments": true, // 删除注释
+    "allowSyntheticDefaultImports": true //默认导出
   }
 }
