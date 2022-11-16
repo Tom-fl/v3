@@ -2,7 +2,7 @@
  * @Author: Tom
  * @LastEditors: Tom
  * @Date: 2022-11-02 16:37:44
- * @LastEditTime: 2022-11-02 17:46:51
+ * @LastEditTime: 2022-11-02 18:11:54
  * @Email: Tom
  * @FilePath: \typescript\装饰器Decorator\index.ts
  * @Environment: Win 10
@@ -109,16 +109,16 @@
 // let nam1 = new Names()
 
 // --------------------------------------参数装饰器------------------------------------
-const watcher: ParameterDecorator = (...args) => {
-  console.log(args)
-  // [ { getName: [Function (anonymous)] }, 'getName', 0 ]
-  //     方法                                 方法名  位置
-}
+// const watcher: ParameterDecorator = (...args) => {
+//   console.log(args)
+//   // [ { getName: [Function (anonymous)] }, 'getName', 0 ]
+//   //     方法                                 方法名  位置
+// }
 
-class Names {
-  name: string
+// class Names {
+//   name: string
 
-  getName(name: string, @watcher age: number) {}
-}
+//   getName(name: string, @watcher age: number) {}
+// }
 
-let nam1 = new Names()
+// let nam1 = new Names()
